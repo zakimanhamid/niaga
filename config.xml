@@ -2,10 +2,10 @@
 <widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Niagain</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Niagain aplikasi jual beli online dan belanja murah.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="cs@niagain.com" href="https://niagain.com">
+       Niagain Team
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
